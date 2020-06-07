@@ -10,3 +10,5 @@ def index():
 @home_routes.route("/about")
 def about():
     return "About me"
+
+# Why __name__ is imported?
