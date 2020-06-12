@@ -9,6 +9,7 @@ verify_ssl = true
 python-dotenv = "*"
 requests = "*"
 basilica = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.8"
