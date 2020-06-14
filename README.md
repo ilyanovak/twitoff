@@ -6,3 +6,10 @@
 # pipenv install scikit-learn
 # pipenv install py-postgresql
 # pipenv install psycopg2-binary
+
+# .env file location: lambda\repos\twitoff_env_file
+
+# Flask Migrate commands
+# flask db init
+# flask db migrate
+# flask db upgrade
