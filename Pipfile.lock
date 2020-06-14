@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5534d12b1f181214542622f3335c0684c385ee08803ca4a686004273aebb303b"
+            "sha256": "c62ea5969c7eeeda162ae4c20dfee3891ac11c26269355c6dec6531f64336be4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -50,6 +50,14 @@
             ],
             "version": "==7.1.2"
         },
+        "dj-database-url": {
+            "hashes": [
+                "sha256:4aeaeb1f573c74835b0686a2b46b85990571159ffc21aa57ecd4d1e1cb334163",
+                "sha256:851785365761ebe4994a921b433062309eb882fedd318e1b0fcecc607ed02da9"
+            ],
+            "index": "pypi",
+            "version": "==0.5.0"
+        },
         "flask": {
             "hashes": [
                 "sha256:4efa1ae2d7c9865af48986de8aeb8504bf32c7f3d6fdc9353d34b21f4b127060",
@@ -73,6 +81,14 @@
             ],
             "index": "pypi",
             "version": "==2.4.3"
+        },
+        "gunicorn": {
+            "hashes": [
+                "sha256:1904bb2b8a43658807108d59c3f3d56c2b6121a701161de0ddf9ad140073c626",
+                "sha256:cd4a810dd51bf497552cf3f863b575dabd73d6ad6a91075b65936b151cbf4f9c"
+            ],
+            "index": "pypi",
+            "version": "==20.0.4"
         },
         "idna": {
             "hashes": [

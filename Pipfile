@@ -16,6 +16,8 @@ requests = "*"
 basilica = "*"
 tweepy = "*"
 scikit-learn = "*"
+dj-database-url = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"

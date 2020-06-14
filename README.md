@@ -6,6 +6,8 @@
 # pipenv install scikit-learn
 # pipenv install py-postgresql
 # pipenv install psycopg2-binary
+# pipenv install gunicorn
+# pipenv install dj-database-url
 
 # .env file location: lambda\repos\twitoff_env_file
 
